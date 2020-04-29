@@ -1,0 +1,4 @@
+--class-path src 
+--class-path lib 
+-main Main
+-js "bin/index.js"

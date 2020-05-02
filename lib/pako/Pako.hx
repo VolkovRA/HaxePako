@@ -16,7 +16,7 @@ package pako;
  * @see GitHub: https://github.com/nodeca/pako
  * @see npm: https://www.npmjs.com/package/pako
  */
-@:native("pako")
+#if nodejs @:jsRequire("pako") #else @:native("pako") #end
 extern class Pako
 {
     /**

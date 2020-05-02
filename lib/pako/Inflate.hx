@@ -21,7 +21,7 @@ import haxe.extern.EitherType;
  * ```
  * @see Documentation: http://nodeca.github.io/pako/#Inflate
  */
-@:native("pako.Inflate")
+#if nodejs @:jsRequire("pako", "Inflate") #else @:native("pako.Inflate") #end
 extern class Inflate
 {
     /**

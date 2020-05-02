@@ -21,7 +21,7 @@ import haxe.extern.EitherType;
  * ```
  * @see Documentation: http://nodeca.github.io/pako/#Deflate
  */
-@:native("pako.Deflate")
+#if nodejs @:jsRequire("pako", "Deflate") #else @:native("pako.Deflate") #end
 extern class Deflate
 {
     /**

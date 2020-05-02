@@ -2,3 +2,4 @@
 --class-path lib 
 -main Main
 -js "bin/index.js"
+#-D nodejs

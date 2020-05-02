@@ -4,7 +4,7 @@
 	"license": "MIT",
 	"tags": ["pako", "zip", "gzip", "compression", "js", "web"],
 	"description": "The Haxe high quality extern definitions for pako",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"releasenote": "Release for pako 1.0.11",
 	"contributors": ["VolkovRA"],
 	"classPath": "lib"

@@ -54,3 +54,4 @@ See more information:
  * [Documentation Haxelib](https://lib.haxe.org/documentation/using-haxelib/ "Using Haxelib")
  * [Documentation HaxeDevelop](https://haxedevelop.org/configure-haxe.html "Configure Haxe")
  * [Documentation Haxe compiler](https://haxe.org/manual/compiler-usage-hxml.html "Configure compile.hxml")
+ * [WebPackager](https://github.com/VolkovRA/WebPackager "Package web assets")

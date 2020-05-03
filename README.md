@@ -34,7 +34,7 @@ Adding library
 1. Install haxelib so that you can use the Haxe libraries.
 2. Run the command in the terminal to install the Pako externs library globally on your local machine:
 ```
-haxelib git Pako https://github.com/VolkovRA/HaxePako master
+haxelib git pako https://github.com/VolkovRA/HaxePako master
 ```
 Command syntax:
 ```
@@ -46,7 +46,7 @@ haxelib git minject git@github.com:massiveinteractive/minject.git v2          # 
 3. Add the Pako library to your project to use it in the code. If you are using HaxeDevelop, then simply add the entry to the .hxproj file:
 ```
 <haxelib>
-	<library name="Pako" />
+	<library name="pako" />
 </haxelib>
 ```
 

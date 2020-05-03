@@ -1,5 +1,5 @@
 {
-	"name": "Pako",
+	"name": "pako",
 	"url": "https://github.com/VolkovRA/HaxePako/blob/master/README.md",
 	"license": "MIT",
 	"tags": ["pako", "zip", "gzip", "compression", "js", "web"],
